@@ -31,4 +31,7 @@ Deuxième exemple, nous voulons encoder le message CC (soit les 14 bits 10000111
 
 CC vaut donc : 0 0 00 0000 0 000 00 0000 0 00
 
-Autre test : %
+Autres tests : 
+- ABC => 0 0 00 00000 0 00 00 0000 0 0 00 0 0 0 00 0000 0 00
+- % => 00 0 0 0 00 00 0 0 00 0 0 0
+
